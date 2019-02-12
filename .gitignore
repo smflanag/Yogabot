@@ -1,0 +1,13 @@
+
+
+*.py
+*.xml
+*.h
+*.iml
+*.bat
+*.exe
+*.enc
+*.json
+Lib
+
+!yogabot.py
