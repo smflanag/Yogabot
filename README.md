@@ -1,4 +1,4 @@
-# YogaBot
+# Yogabot
 A script to book me into a yoga class through my local gym's website
 
 
